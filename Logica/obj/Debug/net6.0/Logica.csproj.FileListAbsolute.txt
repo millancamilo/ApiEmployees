@@ -1,0 +1,17 @@
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Logica.deps.json
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Logica.dll
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Logica.pdb
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Dominio.dll
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Repositorio.dll
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Dominio.pdb
+K:\DESARROLLO\ApiEmployees\Logica\bin\Debug\net6.0\Repositorio.pdb
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.dll
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\refint\Logica.dll
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\Logica.pdb
+K:\DESARROLLO\ApiEmployees\Logica\obj\Debug\net6.0\ref\Logica.dll

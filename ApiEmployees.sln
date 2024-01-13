@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiEmployees", "ApiEmployees\ApiEmployees.csproj", "{7D525A96-94CE-4924-9F56-364982112EF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Persistencia", "Persistencia", "{99085174-EB6D-4DAB-8E45-1740B3C9E9E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicios", "Servicios", "{5700D05B-E207-463C-A273-433CBFC000A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{4ED2E4F0-EBF9-4933-816B-94FDBFDEE01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{6A81D2B5-E8A4-4F0A-AC6E-1EBCCB6C871A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logica", "Logica", "{D8178D5D-FD9B-4A96-AE40-B1EE0FA096B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{C708DF05-E5A7-43C7-9BB7-EA7D5A0A887E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D525A96-94CE-4924-9F56-364982112EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D525A96-94CE-4924-9F56-364982112EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D525A96-94CE-4924-9F56-364982112EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D525A96-94CE-4924-9F56-364982112EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED2E4F0-EBF9-4933-816B-94FDBFDEE01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED2E4F0-EBF9-4933-816B-94FDBFDEE01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED2E4F0-EBF9-4933-816B-94FDBFDEE01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED2E4F0-EBF9-4933-816B-94FDBFDEE01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A81D2B5-E8A4-4F0A-AC6E-1EBCCB6C871A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A81D2B5-E8A4-4F0A-AC6E-1EBCCB6C871A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A81D2B5-E8A4-4F0A-AC6E-1EBCCB6C871A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A81D2B5-E8A4-4F0A-AC6E-1EBCCB6C871A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C708DF05-E5A7-43C7-9BB7-EA7D5A0A887E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C708DF05-E5A7-43C7-9BB7-EA7D5A0A887E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C708DF05-E5A7-43C7-9BB7-EA7D5A0A887E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C708DF05-E5A7-43C7-9BB7-EA7D5A0A887E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D525A96-94CE-4924-9F56-364982112EF5} = {5700D05B-E207-463C-A273-433CBFC000A0}
+		{4ED2E4F0-EBF9-4933-816B-94FDBFDEE01B} = {99085174-EB6D-4DAB-8E45-1740B3C9E9E7}
+		{6A81D2B5-E8A4-4F0A-AC6E-1EBCCB6C871A} = {99085174-EB6D-4DAB-8E45-1740B3C9E9E7}
+		{C708DF05-E5A7-43C7-9BB7-EA7D5A0A887E} = {D8178D5D-FD9B-4A96-AE40-B1EE0FA096B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19519F07-A41F-41DC-A3BD-440C5FE5C518}
+	EndGlobalSection
+EndGlobal

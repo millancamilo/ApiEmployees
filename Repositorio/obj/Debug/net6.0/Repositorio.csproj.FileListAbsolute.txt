@@ -1,0 +1,15 @@
+K:\DESARROLLO\ApiEmployees\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+K:\DESARROLLO\ApiEmployees\Repositorio\bin\Debug\net6.0\Repositorio.dll
+K:\DESARROLLO\ApiEmployees\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+K:\DESARROLLO\ApiEmployees\Repositorio\bin\Debug\net6.0\Dominio.dll
+K:\DESARROLLO\ApiEmployees\Repositorio\bin\Debug\net6.0\Dominio.pdb
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.dll
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+K:\DESARROLLO\ApiEmployees\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll

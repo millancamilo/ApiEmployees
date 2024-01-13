@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dominio.dll": {}
+        }
+      },
+      "Repositorio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Dominio": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositorio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositorio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Dominio/Dominio.csproj",
+      "msbuildProject": "../Dominio/Dominio.csproj"
+    },
+    "Repositorio/1.0.0": {
+      "type": "project",
+      "path": "../Repositorio/Repositorio.csproj",
+      "msbuildProject": "../Repositorio/Repositorio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Dominio >= 1.0.0",
+      "Repositorio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kevin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "K:\\DESARROLLO\\ApiEmployees\\Logica\\Logica.csproj",
+      "projectName": "Logica",
+      "projectPath": "K:\\DESARROLLO\\ApiEmployees\\Logica\\Logica.csproj",
+      "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
+      "outputPath": "K:\\DESARROLLO\\ApiEmployees\\Logica\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "K:\\DESARROLLO\\ApiEmployees\\Dominio\\Dominio.csproj": {
+              "projectPath": "K:\\DESARROLLO\\ApiEmployees\\Dominio\\Dominio.csproj"
+            },
+            "K:\\DESARROLLO\\ApiEmployees\\Repositorio\\Repositorio.csproj": {
+              "projectPath": "K:\\DESARROLLO\\ApiEmployees\\Repositorio\\Repositorio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
